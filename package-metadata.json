@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/felipeelias/sublime-text-2-rbenv",
+  "version": "0.1.0",
+  "author": "Felipe Elias Philipp",
+  "homepage": "https://github.com/felipeelias/sublime-text-2-rbenv",
+  "description": "Sublime Text 2 plugin to run Ruby with rbenv"
+}
