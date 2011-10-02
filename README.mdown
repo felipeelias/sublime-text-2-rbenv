@@ -1,0 +1,19 @@
+# Sublime Text 2 - rbenv
+
+## Overview
+
+This plugin helps you to run Ruby using rbenv
+
+## Installation
+
+#### Clone the repository
+
+    cd ~/Library/Application Support/Sublime Text 2/Packages/
+    git clone git@github.com:felipeelias/sublime-text-2-rbenv.git rbenv
+
+#### Restart Sublime Text
+
+## Usage
+
+1. In the menu `Tools` -> `Build System` choose RBenv
+2. Run it with `command + B`
