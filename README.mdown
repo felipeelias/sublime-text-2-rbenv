@@ -2,7 +2,11 @@
 
 ## Overview
 
-This plugin helps you to run Ruby using rbenv
+This plugin helps you to run Ruby using rbenv.
+
+## Notes
+
+It assumes that you have the rbevn command installed in `/usr/local/bin/rbenv`. Currently tested on OS X.
 
 ## Installation
 
@@ -17,3 +21,8 @@ This plugin helps you to run Ruby using rbenv
 
 1. In the menu `Tools` -> `Build System` choose RBenv
 2. Run it with `command + B`
+
+## TODO
+
+- List all installed rubies
+- Swicth Ruby from editor
