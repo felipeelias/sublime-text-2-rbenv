@@ -12,7 +12,7 @@ It assumes that you have the rbevn command installed in `/usr/local/bin/rbenv`. 
 
 #### Clone the repository
 
-    cd ~/Library/Application Support/Sublime Text 2/Packages/
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
     git clone git://github.com/felipeelias/sublime-text-2-rbenv.git rbenv
 
 #### Restart Sublime Text
