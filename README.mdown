@@ -6,7 +6,7 @@ This plugin helps you to run Ruby using rbenv.
 
 ## Notes
 
-It assumes that you have the rbevn command installed in `/usr/local/bin/rbenv`. Currently tested on OS X.
+It assumes that you have the rbenv command installed in `/usr/local/bin/rbenv`. Currently tested on OS X.
 
 ## Installation
 
